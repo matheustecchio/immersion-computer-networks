@@ -6,4 +6,4 @@ Study about how my personal computer connects to the internet, about the ISP, do
 
 Copyright © 2022 [Matheus Tecchio](https://github.com/matheustecchio).
 
-Released under the [Attribution 4.0 International License](./LICENSE).
+Licensed under the  [Attribution 4.0 International](./LICENSE).
