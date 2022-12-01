@@ -7,7 +7,7 @@ Study about how my personal computer connects to the internet, about the ISP, do
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/52295230?v=4" width="100px;" alt="[Matheus Tecchio](https://github.com/matheustecchio)"/><br>
+        <img src="https://avatars.githubusercontent.com/u/52295230?v=4" width="100px;" alt="Matheus Tecchio"/><br>
         <sub>
           <b>Matheus Tecchio</b>
         </sub>
