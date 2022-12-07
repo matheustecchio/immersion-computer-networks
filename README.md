@@ -2,7 +2,7 @@
 
 Study about how my personal computer connects to the internet, about the ISP, download speed and basic commands in windows terminal.
 
-## 🪪 Author
+## 📛 Author
 <table>
   <tr>
     <td align="center">
